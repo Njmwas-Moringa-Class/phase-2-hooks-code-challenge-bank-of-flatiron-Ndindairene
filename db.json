@@ -83,6 +83,125 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2023-12-12",
+      "description": "dinner",
+      "category": "food",
+      "amount": "300",
+      "id": 13
+    },
+    {
+      "date": "2023-12-12",
+      "description": "dinner",
+      "category": "food",
+      "amount": "300",
+      "id": 14
+    },
+    {
+      "date": "2023-12-12",
+      "description": "dinner",
+      "category": "food",
+      "amount": "300",
+      "id": 15
+    },
+    {
+      "date": "2023-12-12",
+      "description": "dinner",
+      "category": "food",
+      "amount": "300",
+      "id": 16
+    },
+    {
+      "date": "2023-12-12",
+      "description": "dinner",
+      "category": "food",
+      "amount": "300",
+      "id": 17
+    },
+    {
+      "date": "2023-12-12",
+      "description": "dinner",
+      "category": "food",
+      "amount": "",
+      "id": 18
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 19
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 20
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 21
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 22
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 23
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 24
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 25
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 26
+    },
+    {
+      "date": "2023-12-11",
+      "description": "dinner",
+      "category": "food",
+      "amount": "200",
+      "id": 27
+    },
+    {
+      "date": "2023-12-11",
+      "description": "lunch",
+      "category": "food",
+      "amount": "600",
+      "id": 28
+    },
+    {
+      "date": "2023-12-08",
+      "description": "Airtime",
+      "category": "Entertainment",
+      "amount": "1000",
+      "id": 29
     }
   ]
 }
